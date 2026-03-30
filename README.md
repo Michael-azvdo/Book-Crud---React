@@ -36,7 +36,7 @@ Aplicação web desenvolvida em React que permite cadastrar, editar e excluir li
 
 1. Clone o repositório:
 
-git clone https://github.com/Michael-azvdo/react-books-crud.git
+git clone https://github.com/Michael-azvdo/Book-Crud---React
 
 2. Acesse a pasta:
 
